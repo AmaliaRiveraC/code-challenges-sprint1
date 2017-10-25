@@ -21,4 +21,4 @@ Si hay empate, debe devolver la primera palabra en la lista de parámetros.`
 
 A continuación se incluye el diagrama de flujo.
 
-![diagrama-de-flujo](https://subefotos.com/ver/?52d8a11c22566cfe99197419eec9ab56o.png#codigos)
+![diagrama-de-flujo]('https://subefotos.com/ver/?52d8a11c22566cfe99197419eec9ab56o.png#codigos')
